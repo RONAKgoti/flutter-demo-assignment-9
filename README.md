@@ -1,16 +1,35 @@
-# flutter_demo
+# Help Instruction Application
 
-A new Flutter project.
+This project is created for assignment submission.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Help and instruction topics
+- Expandable help sections
+- Clear readable guidance text
+- Smooth scrolling interface
+- Easy navigation for users
 
-A few resources to get you started if this is your first Flutter project:
+## Widgets Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Scaffold
+- AppBar
+- ListView
+- ExpansionTile
+- Padding
+- Text
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Help Topics
+
+- How to Use App
+- Reset Password
+- Update Profile
+- Contact Support
+
+## Screenshot
+
+![Output](Screenshot%202026-05-03%20180207.png)
+
+## Result
+
+Application runs successfully without crashes or UI overflow issues.
